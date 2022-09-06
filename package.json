@@ -1,0 +1,22 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Un tipico hola mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisFM15/xxx.git"
+  },
+  "keywords": [
+    "malex"
+  ],
+  "author": "Alexis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisFM15/xxx/issues"
+  },
+  "homepage": "https://github.com/AlexisFM15/xxx#readme"
+}
